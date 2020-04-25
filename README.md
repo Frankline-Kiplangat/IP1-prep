@@ -6,7 +6,7 @@ Code and documents for my portfolio landing page.
 
 ## Contributors
 
--FRankline Kiplangat <kipfrankline@gmail.com>
+-Frankline Kiplangat <kipfrankline@gmail.com>
 
 ## License and Copyright
 
