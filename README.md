@@ -10,4 +10,4 @@ Frankline Kiplangat <kipfrankline@gmail.com>
 
 ## License and Copyright
 
-&copy;Frankline Kip|2020,Moringa School
+&copy;Frankline Kip | Moringa School | 2020
