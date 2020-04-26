@@ -6,8 +6,8 @@ Code and documents for my portfolio landing page.
 
 ## Contributors
 
--Frankline Kiplangat <kipfrankline@gmail.com>
+Frankline Kiplangat <kipfrankline@gmail.com>
 
 ## License and Copyright
 
-&copy Frankline Kip|2020,Moringa School
+&copy;Frankline Kip|2020,Moringa School
